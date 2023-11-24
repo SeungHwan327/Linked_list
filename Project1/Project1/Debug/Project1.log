@@ -1,0 +1,3 @@
+﻿  Lab1_review.cpp
+C:\Users\User\source\repos\Project1\Project1\Lab1_review.cpp(11,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Project1.vcxproj -> C:\Users\User\source\repos\Project1\Debug\Project1.exe
